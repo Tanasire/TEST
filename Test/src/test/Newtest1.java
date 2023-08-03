@@ -14,5 +14,9 @@ public class Newtest1 {
 		
 		System.out.println("다시");
 
+		
+		System.out.println("원모어");
+
+
 	}
 }
