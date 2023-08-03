@@ -30,6 +30,10 @@ public class Test { //퍼블릭 클래스 테스트
 		
 		System.out.println("LaLaLA");
 		
+		
+		System.out.println("가나다라마");
+		
+		
 	} //메인 메소드의 끝 , 자바 프로그램의 중단점(Terminate)
 	
 } // Test 클래스 정의 끝
