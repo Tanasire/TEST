@@ -9,6 +9,8 @@ public class Newtest1 {
 
 	
 		System.out.println("섬궐추가");
+		
+		System.out.println("다시 성공");
 
 	}
 }
