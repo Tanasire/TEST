@@ -10,7 +10,8 @@ public static void main(String[] args) {
 	System.out.println("Boosasddsfdur");
 	// 왜 안 될까
 	// ??????
-	
+	 
+	System.out.println("encore");
 
 	System.out.println("dd");
 
