@@ -28,6 +28,7 @@ public class Test { //퍼블릭 클래스 테스트
 		System.out.println("Hello");
 		System.out.println("hihihihi");
 		
+		System.out.println("LaLaLA");
 		
 	} //메인 메소드의 끝 , 자바 프로그램의 중단점(Terminate)
 	
